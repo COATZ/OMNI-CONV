@@ -17,6 +17,7 @@ cLUT.create_lookup_table(1024, './LUT', "bilinear", 1)
 ## OFFSETS
 To create offsets files in OFFSETS folder. depending on convolution parameters (k kernel size, s stride, p padding, d dilation) and image size (w width, h height).
 ```
+python3 create_offset_tensor.py --w {} --h {} --k {} --s {} --p {} --d {}
 python3 create_offset_tensor.py --w 100 --h 100 --k 8 --s 4 --p 0
 ```
 
