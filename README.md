@@ -1,5 +1,7 @@
 # OMNI-CONV
 
+![Image](https://github.com/COATZ/OMNI-CONV/blob/main/disto_conv.PNG)
+
 # Citation
 This repositeory contains the code used in our article "OMNI-CONV: Generalization of the Omnidirectional Distortion-Aware Convolutions".
 
